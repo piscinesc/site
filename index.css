@@ -1,0 +1,8 @@
+#BLOC{
+	position:fixed;
+	border:solid 1px;
+	width: 500px;
+	top:100px;
+	left:390px;
+	bottom:10px;
+}
